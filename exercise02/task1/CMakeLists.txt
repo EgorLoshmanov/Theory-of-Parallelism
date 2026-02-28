@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.16)
+project(task1 LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(dgemv dgemv.cpp)
+
+target_compile_options(dgemv PRIVATE
+    $<$<CONFIG:Release>:-O3>
+)
+
+find_package(OpenMP REQUIRED)
+target_link_libraries(dgemv PRIVATE OpenMP::OpenMP_CXX)
