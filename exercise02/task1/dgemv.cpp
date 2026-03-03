@@ -69,7 +69,7 @@ static void run_parallel(int m, int n) {
 
 int main(int argc, char** argv) {
     int m = 20000;
-    int n = 2000;
+    int n = 20000;
 
     if (argc >= 3) {
         m = std::atoi(argv[1]);

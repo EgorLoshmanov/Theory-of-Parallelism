@@ -10,7 +10,7 @@ using FloatType = double;
 #endif
 
 int main() {
-    constexpr size_t N = 10000000;
+    size_t N = 10000000;
     std::vector<FloatType> vec(N);
     FloatType sum = 0;
 
