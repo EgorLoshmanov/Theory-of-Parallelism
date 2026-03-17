@@ -12,3 +12,7 @@ cmake_install.cmake
 
 .DS_Store
 
+*.sh
+dgemv
+simple_iteration
+integration
