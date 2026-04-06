@@ -76,12 +76,7 @@ for (int i = 0; i < m; ++i) {
     double avg_tp = total_tp / N_RUNS;
     double speedup = avg_t1 / avg_tp;
 
-    int p = 1;
-#pragma omp parallel
-    {
-#pragma omp single
-        p = omp_get_num_threads();
-    }
+int p = omp_get_max_threads(); 
 
     std::cout << "Runs: " << N_RUNS << "\n";
     std::cout << "Average serial time (T1):   " << avg_t1 << " sec\n";
@@ -105,7 +100,7 @@ int main(int argc, char** argv) {
     }
 
     std::cout << "Matrix-vector product (c[m] = a[m,n] * b[n]; m=" << m << ", n=" << n << ")\n";
-    std::uint64_t mem_bytes = ((std::uint64_t)m * n + m + n + m + m) * sizeof(double);
+    std::uint64_t mem_bytes = ((std::uint64_t)m * n + n + 2 * m) * sizeof(double);
     std::cout << "Memory used: " << (mem_bytes >> 20) << " MiB\n";
     run_benchmark(m, n);
 
