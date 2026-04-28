@@ -9,7 +9,7 @@
 #include <vector>
 #include "server.h"
 
-static constexpr int N = 1000; 
+static constexpr int N = 10000; 
 
 template<typename T>
 T fun_sin(T arg) { return std::sin(arg); }
