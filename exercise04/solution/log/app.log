@@ -1,0 +1,108 @@
+2026-04-28 01:05:39,422 [ERROR] __main__: Cannot open camera '0'
+2026-04-28 01:05:39,422 [WARNING] __main__: Camera unavailable — using blank frame
+2026-04-28 01:05:39,422 [INFO] __main__: Camera released
+2026-04-28 01:05:57,011 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 01:07:20,626 [INFO] __main__: Camera released
+2026-04-28 01:07:43,125 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 01:08:30,813 [INFO] __main__: Camera released
+2026-04-28 01:18:46,901 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 01:24:59,840 [INFO] __main__: Camera released
+2026-04-28 01:28:05,136 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 01:33:44,141 [INFO] __main__: Camera released
+2026-04-28 01:40:58,534 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 01:41:12,170 [INFO] __main__: Camera released
+2026-04-28 01:45:14,485 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 02:00:03,161 [INFO] __main__: Camera released
+2026-04-28 02:04:48,634 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 02:07:32,917 [INFO] __main__: Camera released
+2026-04-28 11:36:57,722 [ERROR] __main__: Cannot open camera '0'
+2026-04-28 11:36:57,722 [WARNING] __main__: Camera unavailable — using blank frame
+2026-04-28 11:36:57,722 [INFO] __main__: Camera released
+2026-04-28 11:37:04,709 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 11:37:47,283 [INFO] __main__: Camera released
+2026-04-28 12:55:07,307 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 12:57:33,549 [INFO] __main__: Camera released
+2026-04-28 14:30:53,934 [INFO] __main__: Camera '0' opened at 1280x720
+2026-04-28 14:31:03,556 [INFO] __main__: Camera released
+2026-05-05 11:08:08,370 [INFO] __main__: Camera '0' opened at 1280x720
+2026-05-05 11:08:45,868 [INFO] __main__: Camera released
+2026-05-05 11:15:26,296 [INFO] __main__: Camera '0' opened at 1280x720
+2026-05-05 11:15:56,995 [INFO] __main__: Camera released
+2026-05-05 11:24:10,891 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 11:24:42,587 [INFO] __main__: Camera released
+2026-05-05 11:26:09,954 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 11:27:17,450 [INFO] __main__: Camera released
+2026-05-05 12:46:11,151 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 12:47:20,108 [INFO] __main__: Camera released
+2026-05-05 12:49:03,724 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 12:50:35,955 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:36,961 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:37,963 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:38,968 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:39,973 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:40,978 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:41,980 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:42,983 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:43,985 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:44,987 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:45,992 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:46,997 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:48,001 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:49,005 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:50,010 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:51,012 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:52,017 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:53,022 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:54,027 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:55,028 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:56,033 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:57,038 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:58,043 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:50:59,047 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:00,051 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:01,057 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:02,061 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:03,066 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:04,072 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:51:04,296 [INFO] __main__: Camera released
+2026-05-05 12:51:19,741 [ERROR] __main__: Cannot open camera '1'
+2026-05-05 12:51:19,741 [WARNING] __main__: Camera unavailable — using blank frame
+2026-05-05 12:51:19,741 [INFO] __main__: Camera released
+2026-05-05 12:52:24,496 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 12:52:32,403 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:33,408 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:34,414 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:35,415 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:36,420 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:37,422 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:38,427 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:39,432 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:40,436 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:52:40,620 [INFO] __main__: Camera released
+2026-05-05 12:52:48,441 [ERROR] __main__: Cannot open camera '1'
+2026-05-05 12:52:48,441 [WARNING] __main__: Camera unavailable — using blank frame
+2026-05-05 12:52:48,441 [INFO] __main__: Camera released
+2026-05-05 12:52:58,306 [ERROR] __main__: Cannot open camera '1'
+2026-05-05 12:52:58,306 [WARNING] __main__: Camera unavailable — using blank frame
+2026-05-05 12:52:58,306 [INFO] __main__: Camera released
+2026-05-05 12:53:15,484 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 12:53:16,614 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:53:36,375 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:53:37,380 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:53:38,383 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:53:39,384 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 12:53:39,403 [INFO] __main__: Camera released
+2026-05-05 12:59:04,006 [ERROR] __main__: Cannot open camera '1'
+2026-05-05 12:59:04,006 [WARNING] __main__: Camera unavailable — using blank frame
+2026-05-05 12:59:04,006 [INFO] __main__: Camera released
+2026-05-05 12:59:21,111 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 12:59:38,699 [INFO] __main__: Camera released
+2026-05-05 13:00:08,936 [INFO] __main__: Camera '1' opened at 144x200
+2026-05-05 13:00:45,729 [INFO] __main__: Camera released
+2026-05-05 13:01:09,141 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 13:01:18,287 [INFO] __main__: Camera released
+2026-05-05 13:09:35,912 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 13:09:47,103 [ERROR] __main__: Failed to read frame — camera may have been disconnected
+2026-05-05 13:09:47,626 [INFO] __main__: Camera released
+2026-05-05 14:35:37,909 [INFO] __main__: Camera '1' opened at 1280x720
+2026-05-05 14:35:41,511 [INFO] __main__: Camera released
